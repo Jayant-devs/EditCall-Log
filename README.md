@@ -13,7 +13,7 @@ https://github.com/Mudit-pip/EditCall-Log/assets/70972592/f96ff2b0-306a-4e39-9de
 
 
 ## Installation
-if you want you can directly download the APK from the Downlaods folder
+if you want you can directly download the APK from the [Downlaods](https://github.com/Mudit-pip/EditCall-Log) folder
 or if you want to make change in the app you can clone the repository
 
     
